@@ -1,0 +1,45 @@
+img
+{
+  cursor:pointer;
+  position:absolute;
+}
+
+h4
+{
+  position: absolute;
+  font-size: 30px;
+}
+.food
+{
+  top:30%;
+  left:15%;
+}
+
+.trans
+{
+  top:30%;
+  right:15%;
+}
+.fruits
+{
+  top:70%;
+  left:37.5%;
+}
+
+#foodt
+{
+  top:17%;
+  left:25%;
+}
+
+#transt
+{
+  top:17%;
+  right:25%;
+}
+
+#fruitst
+{
+  top:57%;
+  left:46%;
+}
